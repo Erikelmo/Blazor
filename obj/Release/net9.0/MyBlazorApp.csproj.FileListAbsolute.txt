@@ -1073,10 +1073,6 @@ C:\Users\48722\MyBlazorApp\obj\Release\net9.0\MyBlazorApp.dll
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\refint\MyBlazorApp.dll
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\MyBlazorApp.pdb
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\ref\MyBlazorApp.dll
-C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.e7fzz83bx5.wasm
-C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.30kln8bvse.pdb
-C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.e7fzz83bx5.wasm.gz
-C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.30kln8bvse.pdb.gz
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\web.config
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\docs\MyBlazorApp.staticwebassets.endpoints.json
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\docs\wwwroot\sample-data\weather.json
@@ -1085,6 +1081,10 @@ C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\MyBlazorApp.staticwebassets.e
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\wwwroot\sample-data\weather.json
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\wwwroot\_framework\blazor.boot.json
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\MyBlazorApp.sourcelink.json
-C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\w5qwprknaq-e7fzz83bx5.gz
-C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\hy8h8twu6g-30kln8bvse.gz
-C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\1x8j8qyv39-5t9781fnfh.gz
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.2c5ruv89z5.wasm
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.fnhvnv4wyu.pdb
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.2c5ruv89z5.wasm.gz
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.fnhvnv4wyu.pdb.gz
+C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\w5qwprknaq-2c5ruv89z5.gz
+C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\hy8h8twu6g-fnhvnv4wyu.gz
+C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\1x8j8qyv39-qjlak04bgi.gz
