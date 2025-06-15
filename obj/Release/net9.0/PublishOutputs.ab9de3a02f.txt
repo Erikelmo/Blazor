@@ -1,1 +1,8 @@
+C:\Users\48722\MyBlazorApp\docs\docs\web.config
+C:\Users\48722\MyBlazorApp\docs\docs\docs\MyBlazorApp.staticwebassets.endpoints.json
+C:\Users\48722\MyBlazorApp\docs\docs\docs\wwwroot\sample-data\weather.json
+C:\Users\48722\MyBlazorApp\docs\docs\docs\wwwroot\_framework\blazor.boot.json
+C:\Users\48722\MyBlazorApp\docs\docs\MyBlazorApp.staticwebassets.endpoints.json
+C:\Users\48722\MyBlazorApp\docs\docs\wwwroot\sample-data\weather.json
+C:\Users\48722\MyBlazorApp\docs\docs\wwwroot\_framework\blazor.boot.json
 C:\Users\48722\MyBlazorApp\docs\web.config

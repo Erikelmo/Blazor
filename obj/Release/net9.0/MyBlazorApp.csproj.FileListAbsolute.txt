@@ -199,8 +199,6 @@ C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.z55vobmqvh.wasm
-C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.ddmc5ns7ae.pdb
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.phaa9r44xv.wasm.gz
@@ -403,8 +401,6 @@ C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.z55vobmqvh.wasm.gz
-C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.ddmc5ns7ae.pdb.gz
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\MyBlazorApp.staticwebassets.runtime.json
 C:\Users\48722\MyBlazorApp\bin\Release\net9.0\MyBlazorApp.staticwebassets.endpoints.json
@@ -1068,9 +1064,6 @@ C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\869gbkse84-ctf2q9h8m2.g
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\am1u1mbqiq-tjcz0u77k5.gz
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\o76u98ev1i-tptq2av103.gz
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\3a44cq2bfo-lfu7j35m59.gz
-C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\w5qwprknaq-z55vobmqvh.gz
-C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\hy8h8twu6g-ddmc5ns7ae.gz
-C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\1x8j8qyv39-al70utrfrz.gz
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\staticwebassets.build.json.cache
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\staticwebassets.development.json
@@ -1080,3 +1073,18 @@ C:\Users\48722\MyBlazorApp\obj\Release\net9.0\MyBlazorApp.dll
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\refint\MyBlazorApp.dll
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\MyBlazorApp.pdb
 C:\Users\48722\MyBlazorApp\obj\Release\net9.0\ref\MyBlazorApp.dll
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.e7fzz83bx5.wasm
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.30kln8bvse.pdb
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.e7fzz83bx5.wasm.gz
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\wwwroot\_framework\MyBlazorApp.30kln8bvse.pdb.gz
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\web.config
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\docs\MyBlazorApp.staticwebassets.endpoints.json
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\docs\wwwroot\sample-data\weather.json
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\docs\wwwroot\_framework\blazor.boot.json
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\MyBlazorApp.staticwebassets.endpoints.json
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\wwwroot\sample-data\weather.json
+C:\Users\48722\MyBlazorApp\bin\Release\net9.0\docs\wwwroot\_framework\blazor.boot.json
+C:\Users\48722\MyBlazorApp\obj\Release\net9.0\MyBlazorApp.sourcelink.json
+C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\w5qwprknaq-e7fzz83bx5.gz
+C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\hy8h8twu6g-30kln8bvse.gz
+C:\Users\48722\MyBlazorApp\obj\Release\net9.0\compressed\1x8j8qyv39-5t9781fnfh.gz
